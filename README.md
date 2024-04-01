@@ -7,5 +7,5 @@
 - Run index.html with live server
 
 
-![PCA_VS_UMAP](PCA_vs_UMAP.png)
+![PCA_VS_UMAP](PCA_vs_UMAP.PNG)
 
